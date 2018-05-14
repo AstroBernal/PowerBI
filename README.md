@@ -8,13 +8,9 @@ I built this from scratch as a result of a 2 day training program at Microsoft.
 
 Three views make up the entire dashboard.
 
-![](Images_Final_Report/PowerBI Va01 - Sales Overview.png)
+![](Images_Final_Report/PowerBI_Va01_Sales_Overview.png)
 
+![](Images_Final_Report/PowerBI_Va02_Sales_Overview.png)
 
-
-![](Images_Final_Report/PowerBI Va02 - Sales Overview.png)
-
-
-
-![](Images_Final_Report/PowerBI Va03 - Sales Overview.png)
+![](Images_Final_Report/PowerBI_Va03_Sales_Overview.png)
 
